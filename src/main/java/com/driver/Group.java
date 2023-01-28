@@ -1,5 +1,3 @@
-
-
 package com.driver;
 
 public class Group {
@@ -9,9 +7,6 @@ public class Group {
     public Group(String name, int numberOfParticipants) {
         this.name = name;
         this.numberOfParticipants = numberOfParticipants;
-    }
-
-    public Group() {
     }
 
     public String getName() {
